@@ -1,0 +1,34 @@
+#github workflows blank yml
+
+File:ruzyysmartt ether web3/my ethereum wallet
+
+
+acount: github.com/ruzysmartt/smart ether web3
+
+Nodes:js script
+
+on: [push] npm blank yml test reposentory
+
+jobs:workflow npm yml operational system reposentory
+
+  build:smartt ether web3/ my ethereum wallet
+
+    runs-on: ubuntu-latest/ package json=complite
+
+    steps:final operational system complite/ true
+
+    - uses: actions/checkout@v1
+
+    - name: Run a one-line script js
+
+      run: echo Hello, world!
+
+    - name: Run a multi-line script
+
+      run: |npm yml js workflow  ( complite success) 
+
+-email: ruzyysmartt@gmail.com
+
+        echo Add other actions to build,
+
+        echo test, and deploy your project.final
