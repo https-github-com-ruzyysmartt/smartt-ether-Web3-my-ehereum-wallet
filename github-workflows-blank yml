@@ -1,0 +1,33 @@
+  - Name: CI github-workflows-blank yml
+
+  - File:smartt-ether-web3-repository
+
+  - Address:/0x62991A1B4187481C8B5BB49Fa567711e09fF488D
+
+  - account: github.com/ruzysmartt/smartt-ether-web3-repository
+
+  - Nodes:js matrix jv script
+
+  - on: [push] npm blank yml test repository
+
+  - jobs:workflow npm yml operational system repository
+
+  - build:smartt ether web3
+
+  - runs-on: ubuntu-latest/ package json=release coverage json
+
+     - steps:Basic run and remix system operational system operational update incident component/ true
+     - uses: actions/checkout@v1
+     - name: Run a one-line script js npm yml matrix
+     - run: echo Hello, world!
+     - name: Run a multi-line script
+     - run: |npm yml js workflow blank yml  (system operational incident component repository/success) 
+
+     - email: ruzyysmartt@gmail.com
+
+         echo Add other actions to build,
+         echo test, and deploy your project.
+
+      - result: stabil and suksess update
+
+
